@@ -1,4 +1,4 @@
-University-AI-Projects
+#University-AI-Projects
 Uniform Cost, A-star search algorithms and Minimax based game. University of Ioannina 2021.
 
 Το συγκεκριμένο repository περιέχει τις δυο ασκήσεις όπου μας ζητήθηκε να υλοποιήσουμε κατά της διάρκεια του 3ου ακαδημαικού έτους 2020-21 στο μάθημα της τεχνητής νοημοσύνης. Επιβλέπων καθηγητής: Αριστείδης Λύκας
